@@ -13,3 +13,8 @@ shared_scripts {
         "@ox_lib/init.lua",
         "shared/shared.lua",
 }
+
+dependencies {
+        "ox_lib",
+        'ox_inventory',
+}

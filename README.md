@@ -22,9 +22,9 @@
 2. Place the project in your `resources` folder.
 3. Add in your `server.cfg`:
 
-   ```
-   ensure m3fvm_backweapons
-   ```
+	```
+	ensure m3fvm_backweapons
+	```
 
 ### License:
 
@@ -39,5 +39,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-[license-shield]: https://img.shields.io/github/license/matteo0003/m3fvm_carkey.svg?style=for-the-badge
-[license-url]: https://github.com/matteo0003/m3fvm_carkey/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/matteo0003/m3fvm_backweapons.svg?style=for-the-badge
+[license-url]: https://github.com/matteo0003/m3fvm_backweapons/blob/master/LICENSE.txt
